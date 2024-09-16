@@ -5,5 +5,5 @@
 "JP1","Jumper_2_Bridged","~","Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm","1",""
 "JP2","Jumper_2_Open","~","Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm","1",""
 "RN1","4.7k","http://www.vishay.com/docs/31509/csc.pdf","Resistor_THT:R_Array_SIP7","1",""
-"SW1","SW_DIP_x05","~","Package_DIP:DIP-10_W7.62mm_Socket_LongPads","1",""
-"U1","27C801","http://ww1.microchip.com/downloads/en/devicedoc/doc0360.pdf","CheshBits:DIP-32_LP_FATBOY","1",""
+"SW1","SW_DIP_x05","https://www.altronics.com.au/p/s3052-5-way-dip-switch/","Package_DIP:DIP-10_W7.62mm_Socket_LongPads","1",""
+"U1","27C801","https://ilike8bits.com/assembling-the-microbee-multirom/","CheshBits:DIP-32_LP_FATBOY","1",""
